@@ -7,7 +7,7 @@ public class Item : MonoBehaviour
     public string itemName;
     public bool equipable;
     public Sprite sprite;
-    public int amount = 1;
+    public int amount = 1; 
     // Start is called before the first frame update
     void Awake()
     {
